@@ -8,3 +8,17 @@ Themes.css was a convention used by the (then) Community Technical and Vanguard 
 <a href="https://portability.fandom.com/f/p/3825974047146002626">Источник</a>
 </p>
 </details>
+<details><summary><b>Как закруглить инфобокс?</b></summary>
+<code>
+---
+.portable-infobox.type-theme1 {
+	border-radius: 8px;
+}
+.portable-infobox.type-theme1 .pi-title {
+    border-radius: 8px 8px 0px 0px;
+}
+---
+</code>
+</details>
+
+
