@@ -30,4 +30,5 @@
 * ["Справка:Инфобоксы/CSS" на Вики Сообщества](https://community.fandom.com/ru/wiki/Справка:Инфобоксы/CSS)
   * ["Help:Infoboxes/CSS" на Community Central (английский)](https://community.fandom.com/wiki/Help:Infoboxes/CSS)
 * ["Styling your infoboxes" от Trollocool (английский)](https://community.fandom.com/wiki/User_blog:Trollocool/Styling_your_infoboxes)
+* [Lua Infoboxes (английский)](https://portability.fandom.com/wiki/Lua_Infoboxes)
 
