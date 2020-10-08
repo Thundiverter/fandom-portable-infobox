@@ -19,6 +19,10 @@
 }
 ```
 
+### Навигация
+
+* [Ответы на вопросы](faq.md)
+
 ### Полезные ссылки
 
 * [Статья о модульных инфобоксах на Мультиплатформенность вики](https://portability.fandom.com/ru/wiki/Модульные_инфобоксы)
@@ -26,3 +30,4 @@
 * ["Справка:Инфобоксы/CSS" на Вики Сообщества](https://community.fandom.com/ru/wiki/Справка:Инфобоксы/CSS)
   * ["Help:Infoboxes/CSS" на Community Central (английский)](https://community.fandom.com/wiki/Help:Infoboxes/CSS)
 * ["Styling your infoboxes" от Trollocool (английский)](https://community.fandom.com/wiki/User_blog:Trollocool/Styling_your_infoboxes)
+
