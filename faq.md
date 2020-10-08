@@ -12,10 +12,10 @@ Themes.css was a convention used by the (then) Community Technical and Vanguard 
 <details><summary><b>Как закруглить инфобокс?</b></summary>
 
 ~~~
-.portable-infobox.type-theme1 {
+.portable-infobox.type-название_темы {
 	border-radius: 8px;
 }
-.portable-infobox.type-theme1 .pi-title {
+.portable-infobox.type-название_темы .pi-title {
 	border-radius: 8px 8px 0px 0px;
 }
 ~~~
