@@ -10,6 +10,7 @@ Themes.css was a convention used by the (then) Community Technical and Vanguard 
 </details>
 
 <details><summary><b>Как закруглить инфобокс?</b></summary>
+<blockquote>
 
 ~~~
 .portable-infobox.type-название_темы {
@@ -19,6 +20,7 @@ Themes.css was a convention used by the (then) Community Technical and Vanguard 
 	border-radius: 8px 8px 0px 0px;
 }
 ~~~
+</blockquote>
 </details>
 
 
