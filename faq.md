@@ -9,7 +9,7 @@ Themes.css was a convention used by the (then) Community Technical and Vanguard 
 </p>
 </details>
 
-<details><summary><b>Как закруглить инфобокс?</b></summary
+<details><summary><b>Как закруглить инфобокс?</b></summary>
 
 ~~~
 .portable-infobox.type-theme1 {
