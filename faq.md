@@ -13,7 +13,7 @@ Themes.css was a convention used by the (then) Community Technical and Vanguard 
 
 ~~~
 .portable-infobox.type-theme1 {
-	border-radius: 8px;<br/>
+	border-radius: 8px;
 }
 .portable-infobox.type-theme1 .pi-title {
 	border-radius: 8px 8px 0px 0px;
