@@ -34,10 +34,10 @@
   * ["Help:Infoboxes/CSS" на Community Central (английский)](https://community.fandom.com/wiki/Help:Infoboxes/CSS)
 * ["Styling your infoboxes" от Trollocool (английский)](https://community.fandom.com/wiki/User_blog:Trollocool/Styling_your_infoboxes)
 * [Lua Infoboxes (английский)](https://portability.fandom.com/wiki/Lua_Infoboxes)
-##№ Функции парсера
+### Функции парсера
 * ["Справка:Синтаксический анализатор" на Вики Сообщества](https://community.fandom.com/ru/wiki/Справка:Синтаксический_анализатор)
   * ["Help:Parser functions" на Community Central (английский)](https://community.fandom.com/wiki/Help:Parser_functions)
 * ["Справка:Волшебные слова" на MediaWiki (английский)](http://mediawiki.org/wiki/Help:Magic_words/ru)
 * ["Help:Parser function" на Meta (английский)](https://meta.wikimedia.org/wiki/Help:Parser_function)
-##№ Другое
+### Другое
 * ["Справка:Шпаргалка по CSS и JS" на Вики Сообщества](https://community.fandom.com/ru/wiki/Справка:Шпаргалка_по_CSS_и_JS)
