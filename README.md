@@ -37,3 +37,4 @@
 * ["Справка:Синтаксический анализатор" на Вики Сообщества](https://community.fandom.com/ru/wiki/Справка:Синтаксический_анализатор)
   * ["Help:Parser functions" на Community Central (английский)](https://community.fandom.com/wiki/Help:Parser_functions)
 * ["Справка:Волшебные слова" на MediaWiki](http://mediawiki.org/wiki/Help:Magic_words/ru)
+* ["Help:Parser function" на Meta](https://meta.wikimedia.org/wiki/Help:Parser_function)
