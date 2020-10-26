@@ -23,4 +23,10 @@ Themes.css was a convention used by the (then) Community Technical and Vanguard 
 </blockquote>
 </details>
 
+<details><summary><b>Что такое инфобокс?</b></summary>
+<blockquote>
+Инфобоксы используются на подавляющем большинстве википроектов. С их помощью можно кратко рассказать читателю о предмете статьи, выделить ключевую информацию, создать единое оформление вики.
 
+<a href="https://community.fandom.com/ru/wiki/Справка:Инфобоксы">Источник</a>
+</blockquote>
+</details>
