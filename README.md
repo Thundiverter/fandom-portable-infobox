@@ -49,3 +49,5 @@
 * ["Help:Parser function" на Meta (английский)](https://meta.wikimedia.org/wiki/Help:Parser_function)
 ### Другое
 * [«Справка:Шпаргалка по CSS и JS» на Вики Сообщества](https://community.fandom.com/ru/wiki/Справка:Шпаргалка_по_CSS_и_JS)
+* [«инфобокс» в Викисловаре](https://ru.wiktionary.org/wiki/инфобокс)
+  * ["infobox" на Wikitonary (английский)](https://en.wiktionary.org/wiki/infobox)
