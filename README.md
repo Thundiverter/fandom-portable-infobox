@@ -34,6 +34,7 @@
   * ["Help:Infoboxes" на Community Central (английский)](https://community.fandom.com/wiki/Help:Infoboxes)
 * [«Справка:Инфобоксы/редактирование» на Вики Сообщества](https://community.fandom.com/ru/wiki/Справка:Инфобоксы/редактирование)
 * [«Конструктор инфобоксов» на Викии Вики](https://wikies.fandom.com/wiki/Конструктор_инфобоксов)
+* ["Extension:PortableInfobox" на MediaWiki](https://www.mediawiki.org/wiki/Extension:PortableInfobox)
 
 ### CSS
 
