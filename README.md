@@ -52,4 +52,4 @@
 * [«Справка:Шпаргалка по CSS и JS» на Вики Сообщества](https://community.fandom.com/ru/wiki/Справка:Шпаргалка_по_CSS_и_JS)
 * [«инфобокс» в Викисловаре](https://ru.wiktionary.org/wiki/инфобокс)
   * ["infobox" на Wikitonary (английский)](https://en.wiktionary.org/wiki/infobox)
-* ["Help:TemplatedData" на MediaWiki (английский)](https://www.mediawiki.org/wiki/Special:MyLanguage/Help:TemplateData)
+* ["Help:TemplateData" на MediaWiki (английский)](https://www.mediawiki.org/wiki/Special:MyLanguage/Help:TemplateData)
