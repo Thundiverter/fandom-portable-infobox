@@ -53,3 +53,5 @@
 * [«инфобокс» в Викисловаре](https://ru.wiktionary.org/wiki/инфобокс)
   * ["infobox" на Wikitonary (английский)](https://en.wiktionary.org/wiki/infobox)
 * ["Help:TemplateData" на MediaWiki (английский)](https://www.mediawiki.org/wiki/Special:MyLanguage/Help:TemplateData)
+
+[More links »](other/links.md)
